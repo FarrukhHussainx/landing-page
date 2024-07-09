@@ -1,0 +1,57 @@
+.pdiv {
+  position: relative;
+}
+.hdiv {
+  position: absolute;
+  bottom: 50px;
+  left: 200px;
+  right: 100px;
+}
+.pdivx {
+  position: relative;
+}
+.hdivx {
+  position: absolute;
+  bottom: 50px;
+  left: 200px;
+  right: 0px;
+}
+.nevx {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.logow {
+  width: 120px;
+}
+.para {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.c-para {
+  margin-top: 20px;
+}
+.x-para {
+  margin-top: 80px;
+}
+.darkx {
+  margin-top: 50px;
+  background-color: rgb(58, 61, 71);
+  padding-top: 20px;
+
+  padding-bottom: 20px;
+}
+
+.paraz {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 20px;
+}
+.event {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 20px;
+}
+.gei {
+  height: 200px;
+}
